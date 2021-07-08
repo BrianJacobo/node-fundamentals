@@ -1,0 +1,8 @@
+//par o impar
+is-odd
+
+//is numero
+is number
+
+//uuid
+generar is automáticamente
